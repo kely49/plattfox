@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Escalera
+  - Plataforma
+  - PlataformaTrigger
+  - Troncos
+  - Pared
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Pared
+  - Water
+  - UI
+  - Suelo
+  - Escaleras
+  - Enemigos
+  - Jugador
+  - Obstaculos
+  - Muerte
+  - Plataforma
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "Monta\xF1a"
+    uniqueID: 2113834851
+    locked: 0
+  - name: Pinos
+    uniqueID: 273437091
+    locked: 0
+  - name: Tiles
+    uniqueID: 1672570283
+    locked: 0
+  - name: AdornosTiles
+    uniqueID: 3355445291
+    locked: 0
+  - name: Plataformas
+    uniqueID: 3641010131
+    locked: 0
+  - name: Jugador
+    uniqueID: 4212729867
+    locked: 0
+  - name: Adornos
+    uniqueID: 296836951
+    locked: 0
